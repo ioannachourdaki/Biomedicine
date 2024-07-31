@@ -2,7 +2,8 @@
 This repository is for the Biomedicine Technology Lab. It contains the project developed as part of the course curriculum.
 
 ## Description
-Perform statistical data analysis using **R**. This analysis is on R-dataset `wellbeing` which contains the following variables:
+Perform statistical data analysis using **R**. This analysis is on R-dataset `wellbeing` which is a dataframe containing information from 22 European countries, 
+detailing factors that contribute to people's happiness based on 10 different parameters. It contains the following variables:
 1. Country
 2. Well-being index of each country (Well.being)
 3. Gross Domestic Product in dollars (GDP)
@@ -22,5 +23,5 @@ The provided code:
 2. Finds the European country with the highest value of **Health.spending**
 3. Finds the first 3 European countries with the highest **Health.spending** score
 4. Graphs Well.being variable of the European countries as a function of the **Health.spending**
-5. Finds the European countries which have a **Health.spending** value greater than the mean of the **Health.spending** of 22 countries and graphs
+5. Finds the European countries which have a **Health.spending** value greater than the mean of the **Health.spending** of all countries and graphs
 their Well.being variable values
