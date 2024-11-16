@@ -1,5 +1,5 @@
 # Biomedicine Technology Lab: Big Data in Health 
-This repository is for the Biomedicine Technology Lab. It contains the project developed as part of the course curriculum.
+This repository contains the project developed for the Biomedicine Technology Lab Course at ECE NTUA.
 
 ## Description
 Perform statistical data analysis using **R**. This analysis is on R-dataset `wellbeing` which is a dataframe containing information from 22 European countries, 
